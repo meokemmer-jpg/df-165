@@ -1,0 +1,13 @@
+{
+  "df": "DF-165",
+  "energie_belastungs_score": 7.0,
+  "entscheidungen_ohne_memo": 0,
+  "fristen_30_tage_pct": 100.0,
+  "iso_timestamp": "2026-06-19T15:57:45.894754+00:00",
+  "koordinationszeit_h_woche": 5.5,
+  "offene_entscheidungen": 1,
+  "offene_rueckmeldungen_extern": 0,
+  "source": "manual_board_parse",
+  "ungeplante_ausgaben_pct": 0.0,
+  "welle": "66"
+}
