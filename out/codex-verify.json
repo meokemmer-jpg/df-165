@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLLOW",
+  "reason": "Der Test prueft ein anderes Engine-/Familiencockpit-API mit Import-, Default- und Dateieffekt-Checks, aber keinen funktionalen Gegenfall fuer plan_batches/factory_load aus dem gezeigten SRC.",
+  "ts": "2026-07-08T15:08:34.958921+00:00"
+}
